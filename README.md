@@ -1,10 +1,10 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Feri Adi 👋
 
-I'm a **[Your Role, e.g., Full-Stack Developer / Computer Science Student]** passionate about building [what you build, e.g., scalable web applications and open-source tools].
+I'm a **Maganghub Participant** passionate about building scalable web applications and AI Enthusiast.
 
 - 🔭 I’m currently working on **[](https://github.com/xaery67/coffibeshop)**
-- 🌱 I’m currently learning **[Skill or Technology, e.g., TypeScript, Docker, System Design]**
-- 💬 Ask me about **[Your Top Skills, e.g., React, Python, APIs]**
+- 🌱 I’m currently learning **TypeScript, Docker, Python, any Framework and Lib**
+- 💬 Ask me about **Python**
 - 📫 How to reach me: **[](adifery80@gmail.com)**
 
 ---
