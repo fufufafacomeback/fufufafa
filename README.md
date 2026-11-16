@@ -2,7 +2,7 @@
 
 I'm a **Maganghub Participant** passionate about building scalable web applications and AI Enthusiast.
 
-- 🔭 I’m currently working on **[](https://github.com/xaery67/coffibeshop)**
+- 🔭 I’m currently working on **[https://github.com/xaery67/coffibeshop](https://github.com/xaery67/coffibeshop)**
 - 🌱 I’m currently learning **TypeScript, Docker, Python, any Framework and Lib**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: **[](adifery80@gmail.com)**
