@@ -21,11 +21,11 @@ I'm a **Maganghub Participant** passionate about building scalable web applicati
 
 ### 📊 GitHub Stats
 
-![](https://vercel.app)
+![SAWIT](https://vercel.app)
 
 ---
 
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://shields.io)](https://linkedin.com/in/fery-adi-wibowo-8248b71ab)
-[![Portfolio](https://shields.io)](https://yourportfolio.com)
+[![Portfolio](https://shields.io)](https://aery.my.id)
